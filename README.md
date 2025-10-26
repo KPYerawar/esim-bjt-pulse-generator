@@ -1,7 +1,5 @@
 # esim-bjt-pulse-generator
-Okay, here is the text for Section 6 of your eSimReport.pdf, which is a copy of the README.md content I provided earlier.
 
-6. README Description
 Project Title: Design and Simulation of a BJT-Based Pulse Generator using eSim
 
 Objective: To design and simulate a monostable multivibrator circuit using two Bipolar Junction Transistors (BJTs) within the eSim environment. The circuit aims to generate a single output pulse of a fixed duration in response to a short input trigger pulse. The duration of the output pulse should be primarily determined by the time constant of an RC network, matching the behavior described in the reference literature [1].
